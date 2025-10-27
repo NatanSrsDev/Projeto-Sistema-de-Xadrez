@@ -29,7 +29,7 @@ public class Board {
     }
 
     public Piece piece(int row, int column){
-        return pieces[rows][columns];
+        return pieces[row][column];
     }
 
     public Piece piece(Position position){
