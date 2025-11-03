@@ -12,6 +12,7 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         ChessMatch chessMatch = new ChessMatch();
         while (true) {
+            UI.clearScreen();
             UI.printBoard(chessMatch.getPiece());
             System.out.println();
             System.out.print("Source: ");
