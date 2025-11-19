@@ -109,6 +109,8 @@ Este projeto é didático, mas sugestões e melhorias são bem-vindas!
 
 ## 📩 Contato
 **Natan — Desenvolvedor Java**
+
 🔗 GitHub: https://github.com/NatanSrsDev
+
 🔗 LinkedIn: https://www.linkedin.com/in/natansrs-dev/
 
